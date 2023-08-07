@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Название вашего проекта</title>
-</head>
-<body>
+
 
 <!-- Заголовок проекта -->
 <h1>ArysBank</h1>
