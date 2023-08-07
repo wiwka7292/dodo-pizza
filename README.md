@@ -20,3 +20,4 @@
     <li><a href="#component">TableView</a></li>
 </ul>
 
+![none](https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png)
