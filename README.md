@@ -1,10 +1,10 @@
 
 
 <!-- Заголовок проекта -->
-<h1>ArysBank</h1>
+<h1>ArysBank (fake bank app) </h1>
 
 <!-- Описание проекта -->
-<p>This is an example of my bank application. Where you can perform the standard functions of banking applications. These are transfer, account replenishment and viewing of payment history</p>
+<p>This is an example of my bank application. Where you can perform the standard functions of banking applications. These are transfer, account replenishment and viewing of payment history. After launching the app there is an appearance of the logo using animation and a transition from the logo to the home screen with animation too</p>
 
 <!-- Вставьте здесь скриншоты, демонстрирующие ваш проект, если есть -->
 
@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png" width="270" height="600">
 </p>
 
-<p>Here is the main menu where the bank card, 4 active buttons, and exchange rates are located. Bank card data and exchange rates come from my server.I keep the balance of the card and save it in the code. Because my server doesn't support POST/SET and I save them in code...</p>
+<p>Here is the main menu where the bank card, 4 active buttons, and exchange rates are located. Bank card data and exchange rates come from my server.I keep the balance of the card and save it in the code. Because my server doesn't support POST/SET and I save them in code... Replenishment and transfers are saved in the history. Red color is transfer, green color is replenishment</p>
 
 <h2>Buttons</h2>
 <ul>
