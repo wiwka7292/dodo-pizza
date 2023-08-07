@@ -20,10 +20,6 @@
     <li><a href="#component">TableView</a></li>
 </ul>
 
-![none](https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png)
-<style>
-  img {
-    max-width: 50%;
-    height: auto;
-  }
-</style>
+<p align="center">
+  <img src="[ссылка_на_изображение](https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png)https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png" width="800" height="600">
+</p>
