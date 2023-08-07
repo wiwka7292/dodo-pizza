@@ -21,5 +21,6 @@
 </ul>
 
 <p align="center">
-  <img src="[ссылка_на_изображение](https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png)https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png" width="800" height="600">
+  <img src="https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png" width="800" height="600">
 </p>
+
