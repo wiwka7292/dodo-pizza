@@ -7,10 +7,10 @@
 <body>
 
 <!-- Заголовок проекта -->
-<h1>Название вашего проекта</h1>
+<h1>ArysBank</h1>
 
 <!-- Описание проекта -->
-<p>Описание вашего проекта и его цели.</p>
+<p>This is an example of my bank application. Where you can perform the standard functions of banking applications. These are transfer, account replenishment and viewing of payment history</p>
 
 <!-- Вставьте здесь скриншоты, демонстрирующие ваш проект, если есть -->
 
