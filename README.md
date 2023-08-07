@@ -21,3 +21,9 @@
 </ul>
 
 ![none](https://raw.githubusercontent.com/wiwka7292/arys-bank-app/main/image/mainImage.png)
+<style>
+  img {
+    max-width: 50%;
+    height: auto;
+  }
+</style>
